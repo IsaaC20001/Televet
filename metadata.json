@@ -1,0 +1,5 @@
+{
+  "name": "Televet",
+  "description": "A web-based platform, inspired by the SafeBoda model, to connect local farmers with veterinary doctors and vet clinics in real time. The platform allows farmers to request veterinary services on demand, track service delivery, and pay securely.",
+  "requestFramePermissions": []
+}
